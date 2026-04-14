@@ -1,0 +1,3 @@
+.venv
+.Database.db 
+__pycache__/
