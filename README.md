@@ -222,4 +222,4 @@ rfid-payment-system/
 1. Want, R. (2006). An Introduction to RFID Technology. *IEEE Pervasive Computing*, 5(1), 25–33.
 2. Bhattacharyya, R. et al. (2010). RFID-based System for Automated Contactless Payment. *IEEE RFID Conference*.
 3. FastAPI Documentation — https://fastapi.tiangolo.com
-4. Streamlit Documentation — https://docs.streamlit.io
+4. Streamlit Documentation — https://docs.streamlit.io.
